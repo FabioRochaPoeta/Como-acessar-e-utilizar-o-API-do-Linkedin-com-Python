@@ -1,4 +1,1 @@
-# entregaAPIlinkedyn
-Trabalho de 17/3/2023
-(Powerpoint na mesma pasta)
-LOL 2
+Trabalho de 17/3/2023 - Para acessar o API do linkedin
