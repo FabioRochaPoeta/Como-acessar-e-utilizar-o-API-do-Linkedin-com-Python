@@ -1,8 +1,4 @@
-![Linkedyn Logo](https://legal.linkedin.com/apps/settings/wcm/designs/linkedin/katy/global/clientlibs/resources/img/default-share.png) 
-
-<h1>Como acessar e utilizar a API do Linkedyn usando Python</h1>
-
-[Powerpoint](Apresentacao%20Linkedin%20API%20-%20udpated.pptx)
+Como acessar e utilizar a API do Linkedyn usando Python
 
 <h3>Grupo de trabalho:</h3>
 
