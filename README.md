@@ -2,14 +2,14 @@
 
 <h3>Grupo de trabalho:</h3>
 
-Ana Leandro - [Linkedyn](https://www.linkedin.com/in/apmlpet/) 
+Ana Leandro - [Linkedin](https://www.linkedin.com/in/apmlpet/) 
 
-Douglas Sousa - [Linkedyn](https://www.linkedin.com/in/douglas-oliveira-sousa/) 
+Douglas Sousa - [Linkedin](https://www.linkedin.com/in/douglas-oliveira-sousa/) 
 
-Fabio Rocha - [Linkedyn](https://www.linkedin.com/in/farocha/) 
+Fabio Rocha - [Linkedin](https://www.linkedin.com/in/farocha/) 
 
 
 <h3>Orientador:</h3>
 
-Anderson Cordeiro - [Linkedyn](https://www.linkedin.com/in/andercordeiro/)
+Anderson Cordeiro - [Linkedin](https://www.linkedin.com/in/andercordeiro/)
 
