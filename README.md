@@ -1,4 +1,4 @@
-<h1>Como acessar e utilizar o API do Linkedyn com Python</h1>
+<h1>Como acessar e utilizar o API do Linkedin com Python</h1>
 
 <h3>Grupo de trabalho:</h3>
 
